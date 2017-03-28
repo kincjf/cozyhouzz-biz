@@ -11,3 +11,4 @@ Wordpress + Avada Theme
 
 ### 주의사항
 - PHP Time Limit을 180~300초로 늘려주어야 한다(오토셋 PHP 서버 설정 참고)
+- 기록용, DB 복원을 위해서 sql 파일까지 같이 저장해야 재설치-원상복구가 가능하다.
