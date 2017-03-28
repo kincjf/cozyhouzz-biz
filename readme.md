@@ -1,11 +1,12 @@
 # Cozyhouzz Biz Page
 Wordpress + Avada Theme
-ÁöÁ¤ µµ¸ÞÀÎ : biz.cozyhouzz.co.kr
+¿¿ ¿¿¿ : biz.cozyhouzz.co.kr
 
 ## How to use it
-### ¼³Ä¡»çÇ×
-- °³¹ß½Ã : ¿ÀÅä¼Â 10.7.0(php 7.x±â¹Ý)
-- ¹èÆ÷½Ã : ÁöÁ¤ È£½ºÆÃ °ø°£ ³» ¹èÆ÷
+### ¿¿¿¿
+- ¿¿¿ : ¿¿¿ 10.7.0(php 7.x¿¿)
+- ¿¿¿ : ¿¿ ¿¿¿ ¿¿ ¿ ¿¿
+- envato token key : qrBdA1ddg115ldJLLuz0uSlA28w9XlSJ
 
-### ÁÖÀÇ»çÇ×
-- PHP Time LimitÀ» 180~300ÃÊ·Î ´Ã·ÁÁÖ¾î¾ß ÇÑ´Ù(¿ÀÅä¼Â PHP ¼­¹ö ¼³Á¤ Âü°í)
+### ¿¿¿¿
+- PHP Time Limit¿ 180~300¿¿ ¿¿¿¿¿ ¿¿(¿¿¿ PHP ¿¿ ¿¿ ¿¿)

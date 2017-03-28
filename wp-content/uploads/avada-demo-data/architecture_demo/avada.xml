@@ -27,13 +27,13 @@
 
 <channel>
 	<title>Architecture</title>
-	<link>http://localhost:8080/wordpress</link>
+	<link>http://cozyhouzz.cafe24.com</link>
 	<description>Avada WP Theme</description>
 	<pubDate>Thu, 09 Mar 2017 12:21:54 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://avada.theme-fusion.com/</wp:base_site_url>
-	<wp:base_blog_url>http://localhost:8080/wordpress</wp:base_blog_url>
+	<wp:base_blog_url>http://cozyhouzz.cafe24.com</wp:base_blog_url>
 
 	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[admin]]></wp:author_login><wp:author_email><![CDATA[info@example.com]]></wp:author_email><wp:author_display_name><![CDATA[Admin]]></wp:author_display_name><wp:author_first_name><![CDATA[Luke]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
@@ -242,7 +242,7 @@
 
 	<item>
 		<title>home-slide</title>
-		<link>http://localhost:8080/wordpress/slide/home/home-slide/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/home/home-slide/</link>
 		<pubDate>Wed, 11 Feb 2015 11:29:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/home-slide.jpg</guid>
@@ -273,7 +273,7 @@
 	</item>
 	<item>
 		<title>home-image1</title>
-		<link>http://localhost:8080/wordpress/home/home-image1/</link>
+		<link>http://cozyhouzz.cafe24.com/home/home-image1/</link>
 		<pubDate>Wed, 11 Feb 2015 18:42:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/home-image1.jpg</guid>
@@ -304,7 +304,7 @@
 	</item>
 	<item>
 		<title>home-section1</title>
-		<link>http://localhost:8080/wordpress/home/home-section1/</link>
+		<link>http://cozyhouzz.cafe24.com/home/home-section1/</link>
 		<pubDate>Wed, 11 Feb 2015 19:06:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/home-section1.jpg</guid>
@@ -335,7 +335,7 @@
 	</item>
 	<item>
 		<title>home-section2</title>
-		<link>http://localhost:8080/wordpress/home/home-section2/</link>
+		<link>http://cozyhouzz.cafe24.com/home/home-section2/</link>
 		<pubDate>Wed, 11 Feb 2015 19:06:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/home-section2.jpg</guid>
@@ -366,7 +366,7 @@
 	</item>
 	<item>
 		<title>home-section3</title>
-		<link>http://localhost:8080/wordpress/home/home-section3/</link>
+		<link>http://cozyhouzz.cafe24.com/home/home-section3/</link>
 		<pubDate>Wed, 11 Feb 2015 19:20:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/home-section3.jpg</guid>
@@ -397,7 +397,7 @@
 	</item>
 	<item>
 		<title>home-section4</title>
-		<link>http://localhost:8080/wordpress/home/home-section4/</link>
+		<link>http://cozyhouzz.cafe24.com/home/home-section4/</link>
 		<pubDate>Wed, 11 Feb 2015 19:24:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/home-section4.jpg</guid>
@@ -428,7 +428,7 @@
 	</item>
 	<item>
 		<title>home-section5</title>
-		<link>http://localhost:8080/wordpress/home/home-section5/</link>
+		<link>http://cozyhouzz.cafe24.com/home/home-section5/</link>
 		<pubDate>Wed, 11 Feb 2015 19:24:32 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/home-section5.jpg</guid>
@@ -459,7 +459,7 @@
 	</item>
 	<item>
 		<title>bg-contact</title>
-		<link>http://localhost:8080/wordpress/contact/bg-contact/</link>
+		<link>http://cozyhouzz.cafe24.com/contact/bg-contact/</link>
 		<pubDate>Thu, 12 Feb 2015 20:02:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/bg-contact.jpg</guid>
@@ -490,7 +490,7 @@
 	</item>
 	<item>
 		<title>map-marker</title>
-		<link>http://localhost:8080/wordpress/map-marker/</link>
+		<link>http://cozyhouzz.cafe24.com/map-marker/</link>
 		<pubDate>Fri, 13 Feb 2015 17:08:30 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/map-marker.png</guid>
@@ -521,7 +521,7 @@
 	</item>
 	<item>
 		<title>portfolio12</title>
-		<link>http://localhost:8080/wordpress/portfolio/sunrise-avenue/portfolio12/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/sunrise-avenue/portfolio12/</link>
 		<pubDate>Sat, 14 Feb 2015 11:36:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/portfolio12.jpg</guid>
@@ -552,7 +552,7 @@
 	</item>
 	<item>
 		<title>portfolio11</title>
-		<link>http://localhost:8080/wordpress/portfolio/singapore-skyrise/portfolio11/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/singapore-skyrise/portfolio11/</link>
 		<pubDate>Sat, 14 Feb 2015 11:38:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/portfolio11.jpg</guid>
@@ -583,7 +583,7 @@
 	</item>
 	<item>
 		<title>portfolio10</title>
-		<link>http://localhost:8080/wordpress/portfolio/st-lucia-sunsets/portfolio10/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/st-lucia-sunsets/portfolio10/</link>
 		<pubDate>Sat, 14 Feb 2015 11:39:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/portfolio10.jpg</guid>
@@ -614,7 +614,7 @@
 	</item>
 	<item>
 		<title>portfolio9</title>
-		<link>http://localhost:8080/wordpress/portfolio/danish-modernity/portfolio9/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/danish-modernity/portfolio9/</link>
 		<pubDate>Sat, 14 Feb 2015 11:39:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/portfolio9.jpg</guid>
@@ -645,7 +645,7 @@
 	</item>
 	<item>
 		<title>portfolio8</title>
-		<link>http://localhost:8080/wordpress/portfolio/manchester-airport/portfolio8/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/manchester-airport/portfolio8/</link>
 		<pubDate>Sat, 14 Feb 2015 11:45:27 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/portfolio8.jpg</guid>
@@ -676,7 +676,7 @@
 	</item>
 	<item>
 		<title>portfolio7</title>
-		<link>http://localhost:8080/wordpress/portfolio/west-shinjuku/portfolio7/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/west-shinjuku/portfolio7/</link>
 		<pubDate>Sat, 14 Feb 2015 11:46:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/portfolio7.jpg</guid>
@@ -707,7 +707,7 @@
 	</item>
 	<item>
 		<title>portfolio6</title>
-		<link>http://localhost:8080/wordpress/portfolio/london-velodrome/portfolio6/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/london-velodrome/portfolio6/</link>
 		<pubDate>Sat, 14 Feb 2015 11:46:39 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/portfolio6.jpg</guid>
@@ -738,7 +738,7 @@
 	</item>
 	<item>
 		<title>portfolio5</title>
-		<link>http://localhost:8080/wordpress/portfolio/the-cube/portfolio5/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/the-cube/portfolio5/</link>
 		<pubDate>Sat, 14 Feb 2015 11:47:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/portfolio5.jpg</guid>
@@ -769,7 +769,7 @@
 	</item>
 	<item>
 		<title>portfolio4</title>
-		<link>http://localhost:8080/wordpress/portfolio/vila-olimpica/portfolio4/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/vila-olimpica/portfolio4/</link>
 		<pubDate>Sat, 14 Feb 2015 11:47:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/portfolio4.jpg</guid>
@@ -800,7 +800,7 @@
 	</item>
 	<item>
 		<title>portfolio3</title>
-		<link>http://localhost:8080/wordpress/portfolio/oxford-university/portfolio3/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/oxford-university/portfolio3/</link>
 		<pubDate>Sat, 14 Feb 2015 11:48:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/portfolio3.jpg</guid>
@@ -831,7 +831,7 @@
 	</item>
 	<item>
 		<title>portfolio2</title>
-		<link>http://localhost:8080/wordpress/portfolio/new-england-marina/portfolio2/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/new-england-marina/portfolio2/</link>
 		<pubDate>Sat, 14 Feb 2015 11:48:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/portfolio2.jpg</guid>
@@ -862,7 +862,7 @@
 	</item>
 	<item>
 		<title>portfolio1</title>
-		<link>http://localhost:8080/wordpress/portfolio/dubai-hotel/portfolio1/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/dubai-hotel/portfolio1/</link>
 		<pubDate>Sat, 14 Feb 2015 11:49:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/portfolio1.jpg</guid>
@@ -893,7 +893,7 @@
 	</item>
 	<item>
 		<title>logo-avada-architect</title>
-		<link>http://localhost:8080/wordpress/logo-avada-architect/</link>
+		<link>http://cozyhouzz.cafe24.com/logo-avada-architect/</link>
 		<pubDate>Sat, 14 Feb 2015 12:01:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/logo-avada-architect.png</guid>
@@ -924,7 +924,7 @@
 	</item>
 	<item>
 		<title>logo-avada-architect-retina</title>
-		<link>http://localhost:8080/wordpress/logo-avada-architect-retina/</link>
+		<link>http://cozyhouzz.cafe24.com/logo-avada-architect-retina/</link>
 		<pubDate>Sat, 14 Feb 2015 12:05:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/logo-avada-architect-retina.png</guid>
@@ -959,7 +959,7 @@
 	</item>
 	<item>
 		<title>services1</title>
-		<link>http://localhost:8080/wordpress/services/services1/</link>
+		<link>http://cozyhouzz.cafe24.com/services/services1/</link>
 		<pubDate>Sun, 15 Feb 2015 19:43:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/services1.jpg</guid>
@@ -990,7 +990,7 @@
 	</item>
 	<item>
 		<title>services2</title>
-		<link>http://localhost:8080/wordpress/services/services2/</link>
+		<link>http://cozyhouzz.cafe24.com/services/services2/</link>
 		<pubDate>Sun, 15 Feb 2015 19:44:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/services2.jpg</guid>
@@ -1021,7 +1021,7 @@
 	</item>
 	<item>
 		<title>services3</title>
-		<link>http://localhost:8080/wordpress/services/services3/</link>
+		<link>http://cozyhouzz.cafe24.com/services/services3/</link>
 		<pubDate>Sun, 15 Feb 2015 19:44:27 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/services3.jpg</guid>
@@ -1052,7 +1052,7 @@
 	</item>
 	<item>
 		<title>services4</title>
-		<link>http://localhost:8080/wordpress/services/services4/</link>
+		<link>http://cozyhouzz.cafe24.com/services/services4/</link>
 		<pubDate>Sun, 15 Feb 2015 19:45:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/services4.jpg</guid>
@@ -1083,7 +1083,7 @@
 	</item>
 	<item>
 		<title>services5</title>
-		<link>http://localhost:8080/wordpress/services/services5/</link>
+		<link>http://cozyhouzz.cafe24.com/services/services5/</link>
 		<pubDate>Sun, 15 Feb 2015 19:45:27 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/services5.jpg</guid>
@@ -1114,7 +1114,7 @@
 	</item>
 	<item>
 		<title>portfolio-header</title>
-		<link>http://localhost:8080/wordpress/slide/portfolio/portfolio-header-2/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/portfolio/portfolio-header-2/</link>
 		<pubDate>Sun, 15 Feb 2015 20:03:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/portfolio-header1.jpg</guid>
@@ -1145,7 +1145,7 @@
 	</item>
 	<item>
 		<title>about-header</title>
-		<link>http://localhost:8080/wordpress/slide/services/about-header-2/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/services/about-header-2/</link>
 		<pubDate>Sun, 15 Feb 2015 20:03:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/about-header1.jpg</guid>
@@ -1176,7 +1176,7 @@
 	</item>
 	<item>
 		<title>services-header</title>
-		<link>http://localhost:8080/wordpress/slide/services/services-header-2/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/services/services-header-2/</link>
 		<pubDate>Sun, 15 Feb 2015 20:04:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/services-header1.jpg</guid>
@@ -1207,7 +1207,7 @@
 	</item>
 	<item>
 		<title>sunrise-avenue</title>
-		<link>http://localhost:8080/wordpress/slide/sunrise-avenue/sunrise-avenue-2/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/sunrise-avenue/sunrise-avenue-2/</link>
 		<pubDate>Tue, 19 May 2015 17:44:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/05/sunrise-avenue.jpg</guid>
@@ -1238,7 +1238,7 @@
 	</item>
 	<item>
 		<title>singapore</title>
-		<link>http://localhost:8080/wordpress/slide/singapore-skyrise/singapore/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/singapore-skyrise/singapore/</link>
 		<pubDate>Tue, 19 May 2015 17:52:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/05/singapore.jpg</guid>
@@ -1269,7 +1269,7 @@
 	</item>
 	<item>
 		<title>st-lucia</title>
-		<link>http://localhost:8080/wordpress/slide/st-lucia-sunsets/st-lucia/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/st-lucia-sunsets/st-lucia/</link>
 		<pubDate>Tue, 19 May 2015 18:01:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/05/st-lucia.jpg</guid>
@@ -1300,7 +1300,7 @@
 	</item>
 	<item>
 		<title>denmark</title>
-		<link>http://localhost:8080/wordpress/slide/danish-modernity/denmark/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/danish-modernity/denmark/</link>
 		<pubDate>Tue, 19 May 2015 18:13:43 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/05/denmark.jpg</guid>
@@ -1331,7 +1331,7 @@
 	</item>
 	<item>
 		<title>japan</title>
-		<link>http://localhost:8080/wordpress/slide/west-shinjuku/japan/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/west-shinjuku/japan/</link>
 		<pubDate>Tue, 19 May 2015 18:29:03 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/05/japan.jpg</guid>
@@ -1362,7 +1362,7 @@
 	</item>
 	<item>
 		<title>manchester-airport</title>
-		<link>http://localhost:8080/wordpress/slide/manchester-airport/manchester-airport-2/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/manchester-airport/manchester-airport-2/</link>
 		<pubDate>Tue, 19 May 2015 18:33:09 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/05/manchester-airport.jpg</guid>
@@ -1393,7 +1393,7 @@
 	</item>
 	<item>
 		<title>london</title>
-		<link>http://localhost:8080/wordpress/slide/london-velodrome/london/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/london-velodrome/london/</link>
 		<pubDate>Tue, 19 May 2015 18:35:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/05/london.jpg</guid>
@@ -1424,7 +1424,7 @@
 	</item>
 	<item>
 		<title>cube</title>
-		<link>http://localhost:8080/wordpress/slide/the-cube/cube/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/the-cube/cube/</link>
 		<pubDate>Tue, 19 May 2015 18:38:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/05/cube.jpg</guid>
@@ -1455,7 +1455,7 @@
 	</item>
 	<item>
 		<title>barcelona</title>
-		<link>http://localhost:8080/wordpress/slide/vila-olimpica/barcelona/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/vila-olimpica/barcelona/</link>
 		<pubDate>Tue, 19 May 2015 18:41:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/05/barcelona.jpg</guid>
@@ -1486,7 +1486,7 @@
 	</item>
 	<item>
 		<title>oxford-university</title>
-		<link>http://localhost:8080/wordpress/slide/oxford-university/oxford-university-2/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/oxford-university/oxford-university-2/</link>
 		<pubDate>Tue, 19 May 2015 18:49:54 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/05/oxford-university.jpg</guid>
@@ -1517,7 +1517,7 @@
 	</item>
 	<item>
 		<title>new-england</title>
-		<link>http://localhost:8080/wordpress/slide/new-england-marina/new-england/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/new-england-marina/new-england/</link>
 		<pubDate>Tue, 19 May 2015 18:51:27 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/05/new-england.jpg</guid>
@@ -1548,7 +1548,7 @@
 	</item>
 	<item>
 		<title>dubai-hotel</title>
-		<link>http://localhost:8080/wordpress/slide/dubai-hotel/dubai-hotel-2/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/dubai-hotel/dubai-hotel-2/</link>
 		<pubDate>Tue, 19 May 2015 19:37:09 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/05/dubai-hotel.jpg</guid>
@@ -1579,7 +1579,7 @@
 	</item>
 	<item>
 		<title>image1</title>
-		<link>http://localhost:8080/wordpress/portfolio/sunrise-avenue/image1-2/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/sunrise-avenue/image1-2/</link>
 		<pubDate>Tue, 19 May 2015 19:44:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/image11.jpg</guid>
@@ -1610,7 +1610,7 @@
 	</item>
 	<item>
 		<title>image3</title>
-		<link>http://localhost:8080/wordpress/portfolio/singapore-skyrise/image3/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/singapore-skyrise/image3/</link>
 		<pubDate>Tue, 19 May 2015 19:46:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/image3.jpg</guid>
@@ -1641,7 +1641,7 @@
 	</item>
 	<item>
 		<title>image2</title>
-		<link>http://localhost:8080/wordpress/portfolio/st-lucia-sunsets/image2/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/st-lucia-sunsets/image2/</link>
 		<pubDate>Tue, 19 May 2015 19:47:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/image2.jpg</guid>
@@ -1672,7 +1672,7 @@
 	</item>
 	<item>
 		<title>image4</title>
-		<link>http://localhost:8080/wordpress/portfolio/danish-modernity/image4/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/danish-modernity/image4/</link>
 		<pubDate>Tue, 19 May 2015 19:48:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/image4.jpg</guid>
@@ -1703,7 +1703,7 @@
 	</item>
 	<item>
 		<title>image5</title>
-		<link>http://localhost:8080/wordpress/portfolio/west-shinjuku/image5/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/west-shinjuku/image5/</link>
 		<pubDate>Tue, 19 May 2015 19:50:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/image5.jpg</guid>
@@ -1734,7 +1734,7 @@
 	</item>
 	<item>
 		<title>image6</title>
-		<link>http://localhost:8080/wordpress/portfolio/manchester-airport/image6/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/manchester-airport/image6/</link>
 		<pubDate>Tue, 19 May 2015 19:52:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/image6.jpg</guid>
@@ -1765,7 +1765,7 @@
 	</item>
 	<item>
 		<title>image7</title>
-		<link>http://localhost:8080/wordpress/portfolio/london-velodrome/image7/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/london-velodrome/image7/</link>
 		<pubDate>Tue, 19 May 2015 20:06:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/image7.jpg</guid>
@@ -1796,7 +1796,7 @@
 	</item>
 	<item>
 		<title>image8</title>
-		<link>http://localhost:8080/wordpress/portfolio/the-cube/image8/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/the-cube/image8/</link>
 		<pubDate>Tue, 19 May 2015 20:08:02 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/image8.jpg</guid>
@@ -1827,7 +1827,7 @@
 	</item>
 	<item>
 		<title>image9</title>
-		<link>http://localhost:8080/wordpress/portfolio/vila-olimpica/image9/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/vila-olimpica/image9/</link>
 		<pubDate>Tue, 19 May 2015 20:20:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/image9.jpg</guid>
@@ -1858,7 +1858,7 @@
 	</item>
 	<item>
 		<title>image12</title>
-		<link>http://localhost:8080/wordpress/portfolio/oxford-university/image12/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/oxford-university/image12/</link>
 		<pubDate>Tue, 19 May 2015 20:21:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/image12.jpg</guid>
@@ -1889,7 +1889,7 @@
 	</item>
 	<item>
 		<title>image11</title>
-		<link>http://localhost:8080/wordpress/portfolio/new-england-marina/image11/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/new-england-marina/image11/</link>
 		<pubDate>Tue, 19 May 2015 20:22:29 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/image111.jpg</guid>
@@ -1920,7 +1920,7 @@
 	</item>
 	<item>
 		<title>image12</title>
-		<link>http://localhost:8080/wordpress/portfolio/dubai-hotel/image12-2/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/dubai-hotel/image12-2/</link>
 		<pubDate>Tue, 19 May 2015 20:23:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/image121.jpg</guid>
@@ -1951,7 +1951,7 @@
 	</item>
 	<item>
 		<title>image10</title>
-		<link>http://localhost:8080/wordpress/portfolio/dubai-hotel/image10/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/dubai-hotel/image10/</link>
 		<pubDate>Tue, 19 May 2015 20:23:33 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/image10.jpg</guid>
@@ -1982,7 +1982,7 @@
 	</item>
 	<item>
 		<title>sidebar_ad</title>
-		<link>http://localhost:8080/wordpress/sidebar_ad/</link>
+		<link>http://cozyhouzz.cafe24.com/sidebar_ad/</link>
 		<pubDate>Tue, 30 Jun 2015 16:55:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/06/sidebar_ad.jpg</guid>
@@ -2013,7 +2013,7 @@
 	</item>
 	<item>
 		<title>proces_2</title>
-		<link>http://localhost:8080/wordpress/about/proces_2/</link>
+		<link>http://cozyhouzz.cafe24.com/about/proces_2/</link>
 		<pubDate>Tue, 30 Jun 2015 18:57:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/proces_2.jpg</guid>
@@ -2044,7 +2044,7 @@
 	</item>
 	<item>
 		<title>proces_3</title>
-		<link>http://localhost:8080/wordpress/about/proces_3/</link>
+		<link>http://cozyhouzz.cafe24.com/about/proces_3/</link>
 		<pubDate>Tue, 30 Jun 2015 18:57:01 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/proces_3.jpg</guid>
@@ -2075,7 +2075,7 @@
 	</item>
 	<item>
 		<title>proces_1</title>
-		<link>http://localhost:8080/wordpress/about/proces_1/</link>
+		<link>http://cozyhouzz.cafe24.com/about/proces_1/</link>
 		<pubDate>Tue, 30 Jun 2015 19:09:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/proces_1.jpg</guid>
@@ -2106,7 +2106,7 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost:8080/wordpress/17/</link>
+		<link>http://cozyhouzz.cafe24.com/17/</link>
 		<pubDate>Tue, 10 Feb 2015 19:29:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?p=17</guid>
@@ -2197,7 +2197,7 @@
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost:8080/wordpress/18/</link>
+		<link>http://cozyhouzz.cafe24.com/18/</link>
 		<pubDate>Tue, 10 Feb 2015 19:29:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?p=18</guid>
@@ -2288,7 +2288,7 @@
 	</item>
 	<item>
 		<title>Dubai Hotel</title>
-		<link>http://localhost:8080/wordpress/portfolio/dubai-hotel/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/dubai-hotel/</link>
 		<pubDate>Fri, 13 Feb 2015 11:35:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?post_type=avada_portfolio&#038;p=160</guid>
@@ -2636,7 +2636,7 @@
 	</item>
 	<item>
 		<title>New England Marina</title>
-		<link>http://localhost:8080/wordpress/portfolio/new-england-marina/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/new-england-marina/</link>
 		<pubDate>Fri, 13 Feb 2015 11:35:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?post_type=avada_portfolio&#038;p=162</guid>
@@ -2984,7 +2984,7 @@
 	</item>
 	<item>
 		<title>Oxford University</title>
-		<link>http://localhost:8080/wordpress/portfolio/oxford-university/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/oxford-university/</link>
 		<pubDate>Fri, 13 Feb 2015 11:36:47 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?post_type=avada_portfolio&#038;p=164</guid>
@@ -3332,7 +3332,7 @@
 	</item>
 	<item>
 		<title>Vila Olímpica</title>
-		<link>http://localhost:8080/wordpress/portfolio/vila-olimpica/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/vila-olimpica/</link>
 		<pubDate>Fri, 13 Feb 2015 11:37:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?post_type=avada_portfolio&#038;p=166</guid>
@@ -3680,7 +3680,7 @@
 	</item>
 	<item>
 		<title>The Cube</title>
-		<link>http://localhost:8080/wordpress/portfolio/the-cube/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/the-cube/</link>
 		<pubDate>Fri, 13 Feb 2015 11:37:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?post_type=avada_portfolio&#038;p=168</guid>
@@ -4028,7 +4028,7 @@
 	</item>
 	<item>
 		<title>London Velodrome</title>
-		<link>http://localhost:8080/wordpress/portfolio/london-velodrome/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/london-velodrome/</link>
 		<pubDate>Fri, 13 Feb 2015 11:38:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?post_type=avada_portfolio&#038;p=170</guid>
@@ -4376,7 +4376,7 @@
 	</item>
 	<item>
 		<title>West Shinjuku</title>
-		<link>http://localhost:8080/wordpress/portfolio/west-shinjuku/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/west-shinjuku/</link>
 		<pubDate>Fri, 13 Feb 2015 11:39:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?post_type=avada_portfolio&#038;p=172</guid>
@@ -4728,7 +4728,7 @@
 	</item>
 	<item>
 		<title>Manchester Airport</title>
-		<link>http://localhost:8080/wordpress/portfolio/manchester-airport/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/manchester-airport/</link>
 		<pubDate>Fri, 13 Feb 2015 11:38:42 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?post_type=avada_portfolio&#038;p=173</guid>
@@ -5080,7 +5080,7 @@
 	</item>
 	<item>
 		<title>Danish Modernity</title>
-		<link>http://localhost:8080/wordpress/portfolio/danish-modernity/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/danish-modernity/</link>
 		<pubDate>Fri, 13 Feb 2015 11:40:00 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?post_type=avada_portfolio&#038;p=174</guid>
@@ -5432,7 +5432,7 @@
 	</item>
 	<item>
 		<title>St Lucia Sunsets</title>
-		<link>http://localhost:8080/wordpress/portfolio/st-lucia-sunsets/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/st-lucia-sunsets/</link>
 		<pubDate>Fri, 13 Feb 2015 11:40:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?post_type=avada_portfolio&#038;p=175</guid>
@@ -5784,7 +5784,7 @@
 	</item>
 	<item>
 		<title>Singapore Skyrise</title>
-		<link>http://localhost:8080/wordpress/portfolio/singapore-skyrise/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/singapore-skyrise/</link>
 		<pubDate>Fri, 13 Feb 2015 11:41:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?post_type=avada_portfolio&#038;p=176</guid>
@@ -6136,7 +6136,7 @@
 	</item>
 	<item>
 		<title>Sunrise Avenue</title>
-		<link>http://localhost:8080/wordpress/portfolio/sunrise-avenue/</link>
+		<link>http://cozyhouzz.cafe24.com/portfolio/sunrise-avenue/</link>
 		<pubDate>Fri, 13 Feb 2015 11:41:36 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?post_type=avada_portfolio&#038;p=177</guid>
@@ -6488,7 +6488,7 @@
 	</item>
 	<item>
 		<title>architecture_1</title>
-		<link>http://localhost:8080/wordpress/architecture/architecture_1/</link>
+		<link>http://cozyhouzz.cafe24.com/architecture/architecture_1/</link>
 		<pubDate>Tue, 30 Jun 2015 20:26:52 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/06/architecture_1.jpg</guid>
@@ -6519,7 +6519,7 @@
 	</item>
 	<item>
 		<title>architecture_2</title>
-		<link>http://localhost:8080/wordpress/architecture/architecture_2/</link>
+		<link>http://cozyhouzz.cafe24.com/architecture/architecture_2/</link>
 		<pubDate>Tue, 30 Jun 2015 21:05:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/06/architecture_2.jpg</guid>
@@ -6550,7 +6550,7 @@
 	</item>
 	<item>
 		<title>architecture_3</title>
-		<link>http://localhost:8080/wordpress/architecture/architecture_3/</link>
+		<link>http://cozyhouzz.cafe24.com/architecture/architecture_3/</link>
 		<pubDate>Tue, 30 Jun 2015 21:20:54 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/06/architecture_3.jpg</guid>
@@ -6581,7 +6581,7 @@
 	</item>
 	<item>
 		<title>interior_1-compressor</title>
-		<link>http://localhost:8080/wordpress/interior-design/interior_1-compressor/</link>
+		<link>http://cozyhouzz.cafe24.com/interior-design/interior_1-compressor/</link>
 		<pubDate>Wed, 01 Jul 2015 15:17:17 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/07/interior_1-compressor.jpg</guid>
@@ -6612,7 +6612,7 @@
 	</item>
 	<item>
 		<title>interior_2-compressor</title>
-		<link>http://localhost:8080/wordpress/interior-design/interior_2-compressor/</link>
+		<link>http://cozyhouzz.cafe24.com/interior-design/interior_2-compressor/</link>
 		<pubDate>Wed, 01 Jul 2015 15:17:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/07/interior_2-compressor.jpg</guid>
@@ -6643,7 +6643,7 @@
 	</item>
 	<item>
 		<title>interior_3-compressor</title>
-		<link>http://localhost:8080/wordpress/interior-design/interior_3-compressor/</link>
+		<link>http://cozyhouzz.cafe24.com/interior-design/interior_3-compressor/</link>
 		<pubDate>Wed, 01 Jul 2015 15:17:20 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/07/interior_3-compressor.jpg</guid>
@@ -6674,7 +6674,7 @@
 	</item>
 	<item>
 		<title>Home</title>
-		<link>http://localhost:8080/wordpress/</link>
+		<link>http://cozyhouzz.cafe24.com/</link>
 		<pubDate>Tue, 10 Feb 2015 19:21:05 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?page_id=7</guid>
@@ -6999,7 +6999,7 @@ PROJECTS</h2>
 	</item>
 	<item>
 		<title>About</title>
-		<link>http://localhost:8080/wordpress/about/</link>
+		<link>http://cozyhouzz.cafe24.com/about/</link>
 		<pubDate>Tue, 10 Feb 2015 19:21:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?page_id=9</guid>
@@ -7359,7 +7359,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title>Services</title>
-		<link>http://localhost:8080/wordpress/services/</link>
+		<link>http://cozyhouzz.cafe24.com/services/</link>
 		<pubDate>Tue, 10 Feb 2015 19:21:34 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?page_id=11</guid>
@@ -7368,14 +7368,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <h3><em>An international firm of architects, planners and interior designers specialising in a wide range of commercial, residential and public sector projects.</em></h3>
 [/fusion_text][fusion_separator style_type="none" top_margin="10" bottom_margin="10" sep_color="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="left" class="" id=""/][fusion_text]Etiam purus lorem, aliquet a eros sit amet, vestibulum finibus augue. Cras egestas neque vitae dui tincidunt, vitae tristique tellus volutpat. Fusce justo ante, interdum in augue in, commodo imperdiet turpis.[/fusion_text][/fusion_builder_column][fusion_builder_column type="1_2" last="yes" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id=""][fusion_imageframe lightbox="yes" lightbox_image="" style_type="none" hover_type="zoomin" bordercolor="" bordersize="0px" borderradius="0" stylecolor="" align="none" link="" linktarget="_self" animation_type="fade" animation_direction="down" animation_speed="1" animation_offset="" hide_on_mobile="no" class="" id=""] <img alt="" src="http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/image7.jpg" />[/fusion_imageframe][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container background_color="" background_image="http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/services1.jpg" background_parallax="left" enable_mobile="no" parallax_speed="0.7" background_repeat="no-repeat" background_position="left top" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="120px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="1_2" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id=""][fusion_text]
 <h2><span style="color: #ffffff;">ARCHITECTURE</span></h2>
-<span style="color: #ffffff;">Vestibulum ut efficitur nibh. Integer rhoncus nunc eu massa dignissim molestie. Pellentesque blandit eros vel dolor finibus mattis. Nulla rhoncus hendrerit justo, a aliquam ex blandit quis. Nam odio nisl, scelerisque sed lobortis id, lobortis at ante. Aliquam varius et lacus vel varius. Vivamus efficitur nec massa a faucibus. Nam ut velit tortor. Suspendisse lacinia vehicula nisi, at gravida purus porta et. Cras tristique massa libero.</span>[/fusion_text][fusion_separator style_type="none" top_margin="20" bottom_margin="" sep_color="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="" class="" id=""/][fusion_button link="http://localhost:8080/wordpress/architecture/" color="default" size="xlarge"  stretch="default"  type="" shape="" target="_self" title="" gradient_colors="|" gradient_hover_colors="|" accent_color="" accent_hover_color="" bevel_color="" border_width="1px" icon="" icon_position="left" icon_divider="no" modal="" animation_type="0" animation_direction="left" animation_speed="1" animation_offset="" alignment="" class="" id=""]FIND OUT MORE[/fusion_button][/fusion_builder_column][fusion_builder_column type="1_2" last="yes" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id=""][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container background_color="" background_image="http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/services2.jpg" background_parallax="right" enable_mobile="no" parallax_speed="0.7" background_repeat="no-repeat" background_position="left top" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="120px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="1_2" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id=""][fusion_text]
+<span style="color: #ffffff;">Vestibulum ut efficitur nibh. Integer rhoncus nunc eu massa dignissim molestie. Pellentesque blandit eros vel dolor finibus mattis. Nulla rhoncus hendrerit justo, a aliquam ex blandit quis. Nam odio nisl, scelerisque sed lobortis id, lobortis at ante. Aliquam varius et lacus vel varius. Vivamus efficitur nec massa a faucibus. Nam ut velit tortor. Suspendisse lacinia vehicula nisi, at gravida purus porta et. Cras tristique massa libero.</span>[/fusion_text][fusion_separator style_type="none" top_margin="20" bottom_margin="" sep_color="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="" class="" id=""/][fusion_button link="http://cozyhouzz.cafe24.com/architecture/" color="default" size="xlarge"  stretch="default"  type="" shape="" target="_self" title="" gradient_colors="|" gradient_hover_colors="|" accent_color="" accent_hover_color="" bevel_color="" border_width="1px" icon="" icon_position="left" icon_divider="no" modal="" animation_type="0" animation_direction="left" animation_speed="1" animation_offset="" alignment="" class="" id=""]FIND OUT MORE[/fusion_button][/fusion_builder_column][fusion_builder_column type="1_2" last="yes" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id=""][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container background_color="" background_image="http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/services2.jpg" background_parallax="right" enable_mobile="no" parallax_speed="0.7" background_repeat="no-repeat" background_position="left top" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="120px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="1_2" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id=""][fusion_text]
 <h2><span style="color: #ffffff;">INTERIOR DESIGN</span></h2>
-<span style="color: #ffffff;">Vestibulum ut efficitur nibh. Integer rhoncus nunc eu massa dignissim molestie. Pellentesque blandit eros vel dolor finibus mattis. Nulla rhoncus hendrerit justo, a aliquam ex blandit quis. Nam odio nisl, scelerisque sed lobortis id, lobortis at ante. Aliquam varius et lacus vel varius. Vivamus efficitur nec massa a faucibus. Nam ut velit tortor. Suspendisse lacinia vehicula nisi, at gravida purus porta et. Cras tristique massa libero.</span>[/fusion_text][fusion_separator style_type="none" top_margin="20" bottom_margin="" sep_color="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="" class="" id=""/][fusion_button link="http://localhost:8080/wordpress/architecture/" color="default" size="xlarge"  stretch="default"  type="" shape="" target="_self" title="" gradient_colors="|" gradient_hover_colors="|" accent_color="" accent_hover_color="" bevel_color="" border_width="1px" icon="" icon_position="left" icon_divider="no" modal="" animation_type="0" animation_direction="left" animation_speed="1" animation_offset="" alignment="" class="" id=""]FIND OUT MORE[/fusion_button][/fusion_builder_column][fusion_builder_column type="1_2" last="yes" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id=""][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container background_color="" background_image="http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/services3.jpg" background_parallax="left" enable_mobile="no" parallax_speed="0.7" background_repeat="no-repeat" background_position="left top" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="120px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="1_2" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id=""][fusion_text]
+<span style="color: #ffffff;">Vestibulum ut efficitur nibh. Integer rhoncus nunc eu massa dignissim molestie. Pellentesque blandit eros vel dolor finibus mattis. Nulla rhoncus hendrerit justo, a aliquam ex blandit quis. Nam odio nisl, scelerisque sed lobortis id, lobortis at ante. Aliquam varius et lacus vel varius. Vivamus efficitur nec massa a faucibus. Nam ut velit tortor. Suspendisse lacinia vehicula nisi, at gravida purus porta et. Cras tristique massa libero.</span>[/fusion_text][fusion_separator style_type="none" top_margin="20" bottom_margin="" sep_color="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="" class="" id=""/][fusion_button link="http://cozyhouzz.cafe24.com/architecture/" color="default" size="xlarge"  stretch="default"  type="" shape="" target="_self" title="" gradient_colors="|" gradient_hover_colors="|" accent_color="" accent_hover_color="" bevel_color="" border_width="1px" icon="" icon_position="left" icon_divider="no" modal="" animation_type="0" animation_direction="left" animation_speed="1" animation_offset="" alignment="" class="" id=""]FIND OUT MORE[/fusion_button][/fusion_builder_column][fusion_builder_column type="1_2" last="yes" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id=""][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container background_color="" background_image="http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/services3.jpg" background_parallax="left" enable_mobile="no" parallax_speed="0.7" background_repeat="no-repeat" background_position="left top" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="120px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="1_2" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id=""][fusion_text]
 <h2><span style="color: #ffffff;">LANDSCAPE</span></h2>
-<span style="color: #ffffff;">Vestibulum ut efficitur nibh. Integer rhoncus nunc eu massa dignissim molestie. Pellentesque blandit eros vel dolor finibus mattis. Nulla rhoncus hendrerit justo, a aliquam ex blandit quis. Nam odio nisl, scelerisque sed lobortis id, lobortis at ante. Aliquam varius et lacus vel varius. Vivamus efficitur nec massa a faucibus. Nam ut velit tortor. Suspendisse lacinia vehicula nisi, at gravida purus porta et. Cras tristique massa libero.</span>[/fusion_text][fusion_separator style_type="none" top_margin="20" bottom_margin="" sep_color="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="" class="" id=""/][fusion_button link="http://localhost:8080/wordpress/architecture/" color="default" size="xlarge"  stretch="default"  type="" shape="" target="_self" title="" gradient_colors="|" gradient_hover_colors="|" accent_color="" accent_hover_color="" bevel_color="" border_width="1px" icon="" icon_position="left" icon_divider="no" modal="" animation_type="0" animation_direction="left" animation_speed="1" animation_offset="" alignment="" class="" id=""]FIND OUT MORE[/fusion_button][/fusion_builder_column][fusion_builder_column type="1_2" last="yes" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id=""][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container background_color="" background_image="http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/services4.jpg" background_parallax="right" enable_mobile="no" parallax_speed="0.7" background_repeat="no-repeat" background_position="left top" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="120px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="1_2" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id=""][fusion_text]<h2><span style="color: #ffffff;">ENGINEERING</span></h2>
-<span style="color: #ffffff;">Vestibulum ut efficitur nibh. Integer rhoncus nunc eu massa dignissim molestie. Pellentesque blandit eros vel dolor finibus mattis. Nulla rhoncus hendrerit justo, a aliquam ex blandit quis. Nam odio nisl, scelerisque sed lobortis id, lobortis at ante. Aliquam varius et lacus vel varius. Vivamus efficitur nec massa a faucibus. Nam ut velit tortor. Suspendisse lacinia vehicula nisi, at gravida purus porta et. Cras tristique massa libero.</span>[/fusion_text][fusion_separator style_type="none" top_margin="20" bottom_margin="" sep_color="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="" class="" id=""/][fusion_button link="http://localhost:8080/wordpress/architecture/" color="default" size="xlarge"  stretch="default"  type="" shape="" target="_self" title="" gradient_colors="|" gradient_hover_colors="|" accent_color="" accent_hover_color="" bevel_color="" border_width="1px" icon="" icon_position="left" icon_divider="no" modal="" animation_type="0" animation_direction="left" animation_speed="1" animation_offset="" alignment="" class="" id=""]FIND OUT MORE[/fusion_button][/fusion_builder_column][fusion_builder_column type="1_2" last="yes" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id=""][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container background_color="" background_image="http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/services5.jpg" background_parallax="left" enable_mobile="no" parallax_speed="0.7" background_repeat="no-repeat" background_position="left top" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="120px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="1_2" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id=""][fusion_text]
+<span style="color: #ffffff;">Vestibulum ut efficitur nibh. Integer rhoncus nunc eu massa dignissim molestie. Pellentesque blandit eros vel dolor finibus mattis. Nulla rhoncus hendrerit justo, a aliquam ex blandit quis. Nam odio nisl, scelerisque sed lobortis id, lobortis at ante. Aliquam varius et lacus vel varius. Vivamus efficitur nec massa a faucibus. Nam ut velit tortor. Suspendisse lacinia vehicula nisi, at gravida purus porta et. Cras tristique massa libero.</span>[/fusion_text][fusion_separator style_type="none" top_margin="20" bottom_margin="" sep_color="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="" class="" id=""/][fusion_button link="http://cozyhouzz.cafe24.com/architecture/" color="default" size="xlarge"  stretch="default"  type="" shape="" target="_self" title="" gradient_colors="|" gradient_hover_colors="|" accent_color="" accent_hover_color="" bevel_color="" border_width="1px" icon="" icon_position="left" icon_divider="no" modal="" animation_type="0" animation_direction="left" animation_speed="1" animation_offset="" alignment="" class="" id=""]FIND OUT MORE[/fusion_button][/fusion_builder_column][fusion_builder_column type="1_2" last="yes" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id=""][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container background_color="" background_image="http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/services4.jpg" background_parallax="right" enable_mobile="no" parallax_speed="0.7" background_repeat="no-repeat" background_position="left top" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="120px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="1_2" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id=""][fusion_text]<h2><span style="color: #ffffff;">ENGINEERING</span></h2>
+<span style="color: #ffffff;">Vestibulum ut efficitur nibh. Integer rhoncus nunc eu massa dignissim molestie. Pellentesque blandit eros vel dolor finibus mattis. Nulla rhoncus hendrerit justo, a aliquam ex blandit quis. Nam odio nisl, scelerisque sed lobortis id, lobortis at ante. Aliquam varius et lacus vel varius. Vivamus efficitur nec massa a faucibus. Nam ut velit tortor. Suspendisse lacinia vehicula nisi, at gravida purus porta et. Cras tristique massa libero.</span>[/fusion_text][fusion_separator style_type="none" top_margin="20" bottom_margin="" sep_color="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="" class="" id=""/][fusion_button link="http://cozyhouzz.cafe24.com/architecture/" color="default" size="xlarge"  stretch="default"  type="" shape="" target="_self" title="" gradient_colors="|" gradient_hover_colors="|" accent_color="" accent_hover_color="" bevel_color="" border_width="1px" icon="" icon_position="left" icon_divider="no" modal="" animation_type="0" animation_direction="left" animation_speed="1" animation_offset="" alignment="" class="" id=""]FIND OUT MORE[/fusion_button][/fusion_builder_column][fusion_builder_column type="1_2" last="yes" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id=""][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container background_color="" background_image="http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/services5.jpg" background_parallax="left" enable_mobile="no" parallax_speed="0.7" background_repeat="no-repeat" background_position="left top" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="120px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="1_2" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id=""][fusion_text]
 <h2><span style="color: #ffffff;">PROJECT MANAGEMENT</span></h2>
-<span style="color: #ffffff;">Vestibulum ut efficitur nibh. Integer rhoncus nunc eu massa dignissim molestie. Pellentesque blandit eros vel dolor finibus mattis. Nulla rhoncus hendrerit justo, a aliquam ex blandit quis. Nam odio nisl, scelerisque sed lobortis id, lobortis at ante. Aliquam varius et lacus vel varius. Vivamus efficitur nec massa a faucibus. Nam ut velit tortor. Suspendisse lacinia vehicula nisi, at gravida purus porta et. Cras tristique massa libero.</span>[/fusion_text][fusion_separator style_type="none" top_margin="20" bottom_margin="" sep_color="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="" class="" id=""/][fusion_button link="http://localhost:8080/wordpress/architecture/" color="default" size="xlarge"  stretch="default"  type="" shape="" target="_self" title="" gradient_colors="|" gradient_hover_colors="|" accent_color="" accent_hover_color="" bevel_color="" border_width="1px" icon="" icon_position="left" icon_divider="no" modal="" animation_type="0" animation_direction="left" animation_speed="1" animation_offset="" alignment="" class="" id=""]FIND OUT MORE[/fusion_button][/fusion_builder_column][fusion_builder_column type="1_2" last="yes" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id=""][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container]]]></content:encoded>
+<span style="color: #ffffff;">Vestibulum ut efficitur nibh. Integer rhoncus nunc eu massa dignissim molestie. Pellentesque blandit eros vel dolor finibus mattis. Nulla rhoncus hendrerit justo, a aliquam ex blandit quis. Nam odio nisl, scelerisque sed lobortis id, lobortis at ante. Aliquam varius et lacus vel varius. Vivamus efficitur nec massa a faucibus. Nam ut velit tortor. Suspendisse lacinia vehicula nisi, at gravida purus porta et. Cras tristique massa libero.</span>[/fusion_text][fusion_separator style_type="none" top_margin="20" bottom_margin="" sep_color="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="" class="" id=""/][fusion_button link="http://cozyhouzz.cafe24.com/architecture/" color="default" size="xlarge"  stretch="default"  type="" shape="" target="_self" title="" gradient_colors="|" gradient_hover_colors="|" accent_color="" accent_hover_color="" bevel_color="" border_width="1px" icon="" icon_position="left" icon_divider="no" modal="" animation_type="0" animation_direction="left" animation_speed="1" animation_offset="" alignment="" class="" id=""]FIND OUT MORE[/fusion_button][/fusion_builder_column][fusion_builder_column type="1_2" last="yes" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id=""][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2015-02-10 19:21:34]]></wp:post_date>
@@ -7664,7 +7664,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title>Our Work</title>
-		<link>http://localhost:8080/wordpress/our-work/</link>
+		<link>http://cozyhouzz.cafe24.com/our-work/</link>
 		<pubDate>Tue, 10 Feb 2015 19:21:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?page_id=13</guid>
@@ -7958,7 +7958,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title>Contact</title>
-		<link>http://localhost:8080/wordpress/contact/</link>
+		<link>http://cozyhouzz.cafe24.com/contact/</link>
 		<pubDate>Tue, 10 Feb 2015 19:22:07 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?page_id=15</guid>
@@ -8264,7 +8264,7 @@ New York, NY 555555" type="terrain" map_style="custom" overlay_color="" infobox=
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost:8080/wordpress/19/</link>
+		<link>http://cozyhouzz.cafe24.com/19/</link>
 		<pubDate>Tue, 10 Feb 2015 19:29:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?p=19</guid>
@@ -8355,7 +8355,7 @@ New York, NY 555555" type="terrain" map_style="custom" overlay_color="" infobox=
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost:8080/wordpress/20/</link>
+		<link>http://cozyhouzz.cafe24.com/20/</link>
 		<pubDate>Tue, 10 Feb 2015 19:29:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?p=20</guid>
@@ -8446,7 +8446,7 @@ New York, NY 555555" type="terrain" map_style="custom" overlay_color="" infobox=
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost:8080/wordpress/21/</link>
+		<link>http://cozyhouzz.cafe24.com/21/</link>
 		<pubDate>Tue, 10 Feb 2015 19:29:35 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?p=21</guid>
@@ -8537,10 +8537,10 @@ New York, NY 555555" type="terrain" map_style="custom" overlay_color="" infobox=
 	</item>
 	<item>
 		<title>News</title>
-		<link>http://localhost:8080/wordpress/news/</link>
+		<link>http://cozyhouzz.cafe24.com/news/</link>
 		<pubDate>Mon, 29 Jun 2015 23:01:13 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?page_id=444</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?page_id=444</guid>
 		<description></description>
 		<content:encoded><![CDATA[[fusion_builder_container hundred_percent="yes" overflow="visible"][fusion_builder_row][fusion_builder_column type="1_1" background_position="left top" background_color="" border_size="" border_color="" border_style="solid" spacing="yes" background_image="" background_repeat="no-repeat" padding="" margin_top="0px" margin_bottom="0px" class="" id="" animation_type="" animation_speed="0.3" animation_direction="left" hide_on_mobile="no" center_content="no" min_height="none"][fusion_blog number_posts="" offset="" cat_slug="" exclude_cats="" show_title="yes" title_link="yes" thumbnail="yes" excerpt="yes" excerpt_length="35" meta_all="yes" meta_author="yes" meta_categories="yes" meta_comments="no" meta_date="yes" meta_link="yes" meta_tags="yes" paging="yes" scrolling="pagination" strip_html="yes" blog_grid_columns="3" blog_grid_column_spacing="40" layout="medium" class="" id=""][/fusion_blog][fusion_separator style_type="none" top_margin="20px" bottom_margin="20px" sep_color="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="center" class="" id=""/][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container]]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -8831,10 +8831,10 @@ New York, NY 555555" type="terrain" map_style="custom" overlay_color="" infobox=
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost:8080/wordpress/454/</link>
+		<link>http://cozyhouzz.cafe24.com/454/</link>
 		<pubDate>Tue, 30 Jun 2015 13:32:40 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?p=454</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?p=454</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -8914,14 +8914,14 @@ New York, NY 555555" type="terrain" map_style="custom" overlay_color="" infobox=
 	</item>
 	<item>
 		<title>Architecture</title>
-		<link>http://localhost:8080/wordpress/architecture/</link>
+		<link>http://cozyhouzz.cafe24.com/architecture/</link>
 		<pubDate>Tue, 30 Jun 2015 20:11:12 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?page_id=555</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?page_id=555</guid>
 		<description></description>
 		<content:encoded><![CDATA[[fusion_builder_container background_color="" background_image="http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/home-section1.jpg" background_parallax="up" enable_mobile="no" parallax_speed="0.3" background_repeat="no-repeat" background_position="left top" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="120px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="1_2" layout="1_2" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" min_height=""][fusion_text]
 <h2><span style="color: #ffffff;">ARCHITECTURE</span></h2>
-<span style="color: #ffffff;">Vestibulum ut efficitur nibh. Integer rhoncus nunc eu massa dignissim molestie. Pellentesque blandit eros vel dolor finibus mattis. Nulla rhoncus hendrerit justo, a aliquam ex blandit quis. Nam odio nisl, scelerisque sed lobortis id, lobortis at ante. Aliquam varius et lacus vel varius. Vivamus efficitur nec massa a faucibus. Nam ut velit tortor. Suspendisse lacinia vehicula nisi, at gravida purus porta et. Cras tristique massa libero.</span>[/fusion_text][fusion_separator style_type="none" top_margin="20" bottom_margin="" sep_color="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="" class="" id="" /][fusion_button link="http://localhost:8080/wordpress/contact/" color="default" size="xlarge" stretch="default" type="" shape="" target="_self" title="" gradient_colors="|" gradient_hover_colors="|" accent_color="" accent_hover_color="" bevel_color="" border_width="1px" icon="" icon_position="left" icon_divider="no" modal="" animation_type="0" animation_direction="left" animation_speed="1" animation_offset="" alignment="" class="" id=""]GET IN TOUCH[/fusion_button][/fusion_builder_column][fusion_builder_column type="1_2" layout="1_2" last="yes" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" element_content="" min_height=""][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container background_color="" background_image="" background_parallax="none" enable_mobile="no" parallax_speed="0.3" background_repeat="no-repeat" background_position="left top" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="130px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="2_3" layout="2_3" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" min_height=""][fusion_text]
+<span style="color: #ffffff;">Vestibulum ut efficitur nibh. Integer rhoncus nunc eu massa dignissim molestie. Pellentesque blandit eros vel dolor finibus mattis. Nulla rhoncus hendrerit justo, a aliquam ex blandit quis. Nam odio nisl, scelerisque sed lobortis id, lobortis at ante. Aliquam varius et lacus vel varius. Vivamus efficitur nec massa a faucibus. Nam ut velit tortor. Suspendisse lacinia vehicula nisi, at gravida purus porta et. Cras tristique massa libero.</span>[/fusion_text][fusion_separator style_type="none" top_margin="20" bottom_margin="" sep_color="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="" class="" id="" /][fusion_button link="http://cozyhouzz.cafe24.com/contact/" color="default" size="xlarge" stretch="default" type="" shape="" target="_self" title="" gradient_colors="|" gradient_hover_colors="|" accent_color="" accent_hover_color="" bevel_color="" border_width="1px" icon="" icon_position="left" icon_divider="no" modal="" animation_type="0" animation_direction="left" animation_speed="1" animation_offset="" alignment="" class="" id=""]GET IN TOUCH[/fusion_button][/fusion_builder_column][fusion_builder_column type="1_2" layout="1_2" last="yes" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" element_content="" min_height=""][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container background_color="" background_image="" background_parallax="none" enable_mobile="no" parallax_speed="0.3" background_repeat="no-repeat" background_position="left top" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="130px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="2_3" layout="2_3" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" min_height=""][fusion_text]
 <h2>BUILDING PERFECTION</h2>
 [/fusion_text][fusion_separator style_type="single solid" top_margin="0" bottom_margin="35" sep_color="#e2e3e8" border_size="3px" icon="" icon_circle="" icon_circle_color="" width="170px" alignment="left" class="" id="" /][fusion_text]
 <h3><em>An international firm of architects, planners and interior designers specialising in a wide range of commercial, residential and public sector projects.</em></h3>
@@ -9234,10 +9234,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost:8080/wordpress/628/</link>
+		<link>http://cozyhouzz.cafe24.com/628/</link>
 		<pubDate>Tue, 30 Jun 2015 21:48:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?p=628</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?p=628</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -9329,14 +9329,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title>Interior Design</title>
-		<link>http://localhost:8080/wordpress/interior-design/</link>
+		<link>http://cozyhouzz.cafe24.com/interior-design/</link>
 		<pubDate>Wed, 01 Jul 2015 01:46:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?page_id=639</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?page_id=639</guid>
 		<description></description>
 		<content:encoded><![CDATA[[fusion_builder_container background_color="" background_image="http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/home-section2.jpg" background_parallax="up" enable_mobile="no" parallax_speed="0.3" background_repeat="no-repeat" background_position="right center" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="120px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="1_2" layout="1_2" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" min_height=""][fusion_text]
 <h2><span style="color: #ffffff;">INTERIOR DESIGN</span></h2>
-<span style="color: #ffffff;">Vestibulum ut efficitur nibh. Integer rhoncus nunc eu massa dignissim molestie. Pellentesque blandit eros vel dolor finibus mattis. Nulla rhoncus hendrerit justo, a aliquam ex blandit quis. Nam odio nisl, scelerisque sed lobortis id, lobortis at ante. Aliquam varius et lacus vel varius. Vivamus efficitur nec massa a faucibus. Nam ut velit tortor. Suspendisse lacinia vehicula nisi, at gravida purus porta et. Cras tristique massa libero.</span>[/fusion_text][fusion_separator style_type="none" top_margin="20" bottom_margin="" sep_color="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="" class="" id="" /][fusion_button link="http://localhost:8080/wordpress/contact/" color="default" size="xlarge" stretch="default" type="" shape="" target="_self" title="" gradient_colors="|" gradient_hover_colors="|" accent_color="" accent_hover_color="" bevel_color="" border_width="1px" icon="" icon_position="left" icon_divider="no" modal="" animation_type="0" animation_direction="left" animation_speed="1" animation_offset="" alignment="" class="" id=""]GET IN TOUCH[/fusion_button][/fusion_builder_column][fusion_builder_column type="1_2" layout="1_2" last="yes" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" element_content="" min_height=""][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container background_color="" background_image="" background_parallax="none" enable_mobile="no" parallax_speed="0.3" background_repeat="no-repeat" background_position="left top" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="130px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="2_3" layout="2_3" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" min_height=""][fusion_text]
+<span style="color: #ffffff;">Vestibulum ut efficitur nibh. Integer rhoncus nunc eu massa dignissim molestie. Pellentesque blandit eros vel dolor finibus mattis. Nulla rhoncus hendrerit justo, a aliquam ex blandit quis. Nam odio nisl, scelerisque sed lobortis id, lobortis at ante. Aliquam varius et lacus vel varius. Vivamus efficitur nec massa a faucibus. Nam ut velit tortor. Suspendisse lacinia vehicula nisi, at gravida purus porta et. Cras tristique massa libero.</span>[/fusion_text][fusion_separator style_type="none" top_margin="20" bottom_margin="" sep_color="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="" class="" id="" /][fusion_button link="http://cozyhouzz.cafe24.com/contact/" color="default" size="xlarge" stretch="default" type="" shape="" target="_self" title="" gradient_colors="|" gradient_hover_colors="|" accent_color="" accent_hover_color="" bevel_color="" border_width="1px" icon="" icon_position="left" icon_divider="no" modal="" animation_type="0" animation_direction="left" animation_speed="1" animation_offset="" alignment="" class="" id=""]GET IN TOUCH[/fusion_button][/fusion_builder_column][fusion_builder_column type="1_2" layout="1_2" last="yes" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" element_content="" min_height=""][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container background_color="" background_image="" background_parallax="none" enable_mobile="no" parallax_speed="0.3" background_repeat="no-repeat" background_position="left top" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="130px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="2_3" layout="2_3" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" min_height=""][fusion_text]
 <h2>BUILDING PERFECTION</h2>
 [/fusion_text][fusion_separator style_type="single solid" top_margin="0" bottom_margin="35" sep_color="#e2e3e8" border_size="3px" icon="" icon_circle="" icon_circle_color="" width="170px" alignment="left" class="" id="" /][fusion_text]
 <h3><em>An international firm of architects, planners and interior designers specialising in a wide range of commercial, residential and public sector projects.</em></h3>
@@ -9649,14 +9649,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title>Landscape</title>
-		<link>http://localhost:8080/wordpress/landscape/</link>
+		<link>http://cozyhouzz.cafe24.com/landscape/</link>
 		<pubDate>Wed, 01 Jul 2015 01:47:10 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?page_id=641</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?page_id=641</guid>
 		<description></description>
 		<content:encoded><![CDATA[[fusion_builder_container background_color="" background_image="http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/home-section3.jpg" background_parallax="up" enable_mobile="no" parallax_speed="0.3" background_repeat="no-repeat" background_position="left center" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="120px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="1_2" layout="1_2" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" min_height=""][fusion_text]
 <h2><span style="color: #ffffff;">LANDSCAPE</span></h2>
-<span style="color: #ffffff;">Vestibulum ut efficitur nibh. Integer rhoncus nunc eu massa dignissim molestie. Pellentesque blandit eros vel dolor finibus mattis. Nulla rhoncus hendrerit justo, a aliquam ex blandit quis. Nam odio nisl, scelerisque sed lobortis id, lobortis at ante. Aliquam varius et lacus vel varius. Vivamus efficitur nec massa a faucibus. Nam ut velit tortor. Suspendisse lacinia vehicula nisi, at gravida purus porta et. Cras tristique massa libero.</span>[/fusion_text][fusion_separator style_type="none" top_margin="20" bottom_margin="" sep_color="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="" class="" id="" /][fusion_button link="http://localhost:8080/wordpress/contact/" color="default" size="xlarge" stretch="default" type="" shape="" target="_self" title="" gradient_colors="|" gradient_hover_colors="|" accent_color="" accent_hover_color="" bevel_color="" border_width="1px" icon="" icon_position="left" icon_divider="no" modal="" animation_type="0" animation_direction="left" animation_speed="1" animation_offset="" alignment="" class="" id=""]GET IN TOUCH[/fusion_button][/fusion_builder_column][fusion_builder_column type="1_2" layout="1_2" last="yes" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" element_content="" min_height=""][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container background_color="" background_image="" background_parallax="none" enable_mobile="no" parallax_speed="0.3" background_repeat="no-repeat" background_position="left top" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="130px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="2_3" layout="2_3" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" min_height=""][fusion_text]
+<span style="color: #ffffff;">Vestibulum ut efficitur nibh. Integer rhoncus nunc eu massa dignissim molestie. Pellentesque blandit eros vel dolor finibus mattis. Nulla rhoncus hendrerit justo, a aliquam ex blandit quis. Nam odio nisl, scelerisque sed lobortis id, lobortis at ante. Aliquam varius et lacus vel varius. Vivamus efficitur nec massa a faucibus. Nam ut velit tortor. Suspendisse lacinia vehicula nisi, at gravida purus porta et. Cras tristique massa libero.</span>[/fusion_text][fusion_separator style_type="none" top_margin="20" bottom_margin="" sep_color="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="" class="" id="" /][fusion_button link="http://cozyhouzz.cafe24.com/contact/" color="default" size="xlarge" stretch="default" type="" shape="" target="_self" title="" gradient_colors="|" gradient_hover_colors="|" accent_color="" accent_hover_color="" bevel_color="" border_width="1px" icon="" icon_position="left" icon_divider="no" modal="" animation_type="0" animation_direction="left" animation_speed="1" animation_offset="" alignment="" class="" id=""]GET IN TOUCH[/fusion_button][/fusion_builder_column][fusion_builder_column type="1_2" layout="1_2" last="yes" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" element_content="" min_height=""][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container background_color="" background_image="" background_parallax="none" enable_mobile="no" parallax_speed="0.3" background_repeat="no-repeat" background_position="left top" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="130px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="2_3" layout="2_3" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" min_height=""][fusion_text]
 <h2>BUILDING PERFECTION</h2>
 [/fusion_text][fusion_separator style_type="single solid" top_margin="0" bottom_margin="35" sep_color="#e2e3e8" border_size="3px" icon="" icon_circle="" icon_circle_color="" width="170px" alignment="left" class="" id="" /][fusion_text]
 <h3><em>An international firm of architects, planners and interior designers specialising in a wide range of commercial, residential and public sector projects.</em></h3>
@@ -9969,14 +9969,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title>Engineering</title>
-		<link>http://localhost:8080/wordpress/engineering/</link>
+		<link>http://cozyhouzz.cafe24.com/engineering/</link>
 		<pubDate>Wed, 01 Jul 2015 01:47:30 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?page_id=643</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?page_id=643</guid>
 		<description></description>
 		<content:encoded><![CDATA[[fusion_builder_container background_color="" background_image="http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/home-section4.jpg" background_parallax="up" enable_mobile="no" parallax_speed="0.3" background_repeat="no-repeat" background_position="left bottom" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="120px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="1_2" layout="1_2" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" min_height=""][fusion_text]
 <h2><span style="color: #ffffff;">ENGINEERING</span></h2>
-<span style="color: #ffffff;">Vestibulum ut efficitur nibh. Integer rhoncus nunc eu massa dignissim molestie. Pellentesque blandit eros vel dolor finibus mattis. Nulla rhoncus hendrerit justo, a aliquam ex blandit quis. Nam odio nisl, scelerisque sed lobortis id, lobortis at ante. Aliquam varius et lacus vel varius. Vivamus efficitur nec massa a faucibus. Nam ut velit tortor. Suspendisse lacinia vehicula nisi, at gravida purus porta et. Cras tristique massa libero.</span>[/fusion_text][fusion_separator style_type="none" top_margin="20" bottom_margin="" sep_color="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="" class="" id="" /][fusion_button link="http://localhost:8080/wordpress/contact/" color="default" size="xlarge" stretch="default" type="" shape="" target="_self" title="" gradient_colors="|" gradient_hover_colors="|" accent_color="" accent_hover_color="" bevel_color="" border_width="1px" icon="" icon_position="left" icon_divider="no" modal="" animation_type="0" animation_direction="left" animation_speed="1" animation_offset="" alignment="" class="" id=""]GET IN TOUCH[/fusion_button][/fusion_builder_column][fusion_builder_column type="1_2" layout="1_2" last="yes" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" element_content="" min_height=""][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container background_color="" background_image="" background_parallax="none" enable_mobile="no" parallax_speed="0.3" background_repeat="no-repeat" background_position="left top" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="130px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="2_3" layout="2_3" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" min_height=""][fusion_text]
+<span style="color: #ffffff;">Vestibulum ut efficitur nibh. Integer rhoncus nunc eu massa dignissim molestie. Pellentesque blandit eros vel dolor finibus mattis. Nulla rhoncus hendrerit justo, a aliquam ex blandit quis. Nam odio nisl, scelerisque sed lobortis id, lobortis at ante. Aliquam varius et lacus vel varius. Vivamus efficitur nec massa a faucibus. Nam ut velit tortor. Suspendisse lacinia vehicula nisi, at gravida purus porta et. Cras tristique massa libero.</span>[/fusion_text][fusion_separator style_type="none" top_margin="20" bottom_margin="" sep_color="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="" class="" id="" /][fusion_button link="http://cozyhouzz.cafe24.com/contact/" color="default" size="xlarge" stretch="default" type="" shape="" target="_self" title="" gradient_colors="|" gradient_hover_colors="|" accent_color="" accent_hover_color="" bevel_color="" border_width="1px" icon="" icon_position="left" icon_divider="no" modal="" animation_type="0" animation_direction="left" animation_speed="1" animation_offset="" alignment="" class="" id=""]GET IN TOUCH[/fusion_button][/fusion_builder_column][fusion_builder_column type="1_2" layout="1_2" last="yes" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" element_content="" min_height=""][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container background_color="" background_image="" background_parallax="none" enable_mobile="no" parallax_speed="0.3" background_repeat="no-repeat" background_position="left top" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="130px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="2_3" layout="2_3" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" min_height=""][fusion_text]
 <h2>BUILDING PERFECTION</h2>
 [/fusion_text][fusion_separator style_type="single solid" top_margin="0" bottom_margin="35" sep_color="#e2e3e8" border_size="3px" icon="" icon_circle="" icon_circle_color="" width="170px" alignment="left" class="" id="" /][fusion_text]
 <h3><em>An international firm of architects, planners and interior designers specialising in a wide range of commercial, residential and public sector projects.</em></h3>
@@ -10289,14 +10289,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title>Project Management</title>
-		<link>http://localhost:8080/wordpress/project-management/</link>
+		<link>http://cozyhouzz.cafe24.com/project-management/</link>
 		<pubDate>Wed, 01 Jul 2015 01:47:46 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?page_id=645</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?page_id=645</guid>
 		<description></description>
 		<content:encoded><![CDATA[[fusion_builder_container background_color="" background_image="http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/home-section5.jpg" background_parallax="up" enable_mobile="no" parallax_speed="0.3" background_repeat="no-repeat" background_position="left center" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="120px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="1_2" layout="1_2" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" min_height=""][fusion_text]
 <h2><span style="color: #ffffff;">PROJECT MANAGEMENT</span></h2>
-<span style="color: #ffffff;">Vestibulum ut efficitur nibh. Integer rhoncus nunc eu massa dignissim molestie. Pellentesque blandit eros vel dolor finibus mattis. Nulla rhoncus hendrerit justo, a aliquam ex blandit quis. Nam odio nisl, scelerisque sed lobortis id, lobortis at ante. Aliquam varius et lacus vel varius. Vivamus efficitur nec massa a faucibus. Nam ut velit tortor. Suspendisse lacinia vehicula nisi, at gravida purus porta et. Cras tristique massa libero.</span>[/fusion_text][fusion_separator style_type="none" top_margin="20" bottom_margin="" sep_color="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="" class="" id="" /][fusion_button link="http://localhost:8080/wordpress/contact/" color="default" size="xlarge" stretch="default" type="" shape="" target="_self" title="" gradient_colors="|" gradient_hover_colors="|" accent_color="" accent_hover_color="" bevel_color="" border_width="1px" icon="" icon_position="left" icon_divider="no" modal="" animation_type="0" animation_direction="left" animation_speed="1" animation_offset="" alignment="" class="" id=""]GET IN TOUCH[/fusion_button][/fusion_builder_column][fusion_builder_column type="1_2" layout="1_2" last="yes" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" element_content="" min_height=""][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container background_color="" background_image="" background_parallax="none" enable_mobile="no" parallax_speed="0.3" background_repeat="no-repeat" background_position="left top" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="130px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="2_3" layout="2_3" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" min_height=""][fusion_text]
+<span style="color: #ffffff;">Vestibulum ut efficitur nibh. Integer rhoncus nunc eu massa dignissim molestie. Pellentesque blandit eros vel dolor finibus mattis. Nulla rhoncus hendrerit justo, a aliquam ex blandit quis. Nam odio nisl, scelerisque sed lobortis id, lobortis at ante. Aliquam varius et lacus vel varius. Vivamus efficitur nec massa a faucibus. Nam ut velit tortor. Suspendisse lacinia vehicula nisi, at gravida purus porta et. Cras tristique massa libero.</span>[/fusion_text][fusion_separator style_type="none" top_margin="20" bottom_margin="" sep_color="" border_size="" icon="" icon_circle="" icon_circle_color="" width="" alignment="" class="" id="" /][fusion_button link="http://cozyhouzz.cafe24.com/contact/" color="default" size="xlarge" stretch="default" type="" shape="" target="_self" title="" gradient_colors="|" gradient_hover_colors="|" accent_color="" accent_hover_color="" bevel_color="" border_width="1px" icon="" icon_position="left" icon_divider="no" modal="" animation_type="0" animation_direction="left" animation_speed="1" animation_offset="" alignment="" class="" id=""]GET IN TOUCH[/fusion_button][/fusion_builder_column][fusion_builder_column type="1_2" layout="1_2" last="yes" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" element_content="" min_height=""][/fusion_builder_column][/fusion_builder_row][/fusion_builder_container][fusion_builder_container background_color="" background_image="" background_parallax="none" enable_mobile="no" parallax_speed="0.3" background_repeat="no-repeat" background_position="left top" video_url="" video_aspect_ratio="16:9" video_webm="" video_mp4="" video_ogv="" video_preview_image="" overlay_color="" overlay_opacity="0.5" video_mute="yes" video_loop="yes" fade="no" border_size="0px" border_color="" border_style="solid" padding_top="130px" padding_bottom="130px" padding_left="" padding_right="" hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" menu_anchor="" class="" id=""][fusion_builder_row][fusion_builder_column type="2_3" layout="2_3" last="no" spacing="yes" center_content="no" hide_on_mobile="no" background_color="" background_image="" background_repeat="no-repeat" background_position="left top" hover_type="none" link="" border_position="all" border_size="0px" border_color="" border_style="" padding="" margin_top="" margin_bottom="" animation_type="" animation_direction="" animation_speed="0.1" animation_offset="" class="" id="" min_height=""][fusion_text]
 <h2>BUILDING PERFECTION</h2>
 [/fusion_text][fusion_separator style_type="single solid" top_margin="0" bottom_margin="35" sep_color="#e2e3e8" border_size="3px" icon="" icon_circle="" icon_circle_color="" width="170px" alignment="left" class="" id="" /][fusion_text]
 <h3><em>An international firm of architects, planners and interior designers specialising in a wide range of commercial, residential and public sector projects.</em></h3>
@@ -10613,10 +10613,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost:8080/wordpress/649/</link>
+		<link>http://cozyhouzz.cafe24.com/649/</link>
 		<pubDate>Wed, 01 Jul 2015 01:49:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?p=649</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?p=649</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -10708,10 +10708,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost:8080/wordpress/650/</link>
+		<link>http://cozyhouzz.cafe24.com/650/</link>
 		<pubDate>Wed, 01 Jul 2015 01:49:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?p=650</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?p=650</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -10803,10 +10803,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost:8080/wordpress/651/</link>
+		<link>http://cozyhouzz.cafe24.com/651/</link>
 		<pubDate>Wed, 01 Jul 2015 01:49:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?p=651</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?p=651</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -10898,10 +10898,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title></title>
-		<link>http://localhost:8080/wordpress/652/</link>
+		<link>http://cozyhouzz.cafe24.com/652/</link>
 		<pubDate>Wed, 01 Jul 2015 01:49:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?p=652</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?p=652</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -10993,7 +10993,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title>Home</title>
-		<link>http://localhost:8080/wordpress/slide/home/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/home/</link>
 		<pubDate>Wed, 11 Feb 2015 11:28:41 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?post_type=slide&#038;p=22</guid>
@@ -11152,7 +11152,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title>About</title>
-		<link>http://localhost:8080/wordpress/slide/about/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/about/</link>
 		<pubDate>Thu, 12 Feb 2015 14:33:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?post_type=slide&#038;p=78</guid>
@@ -11299,7 +11299,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title>Services</title>
-		<link>http://localhost:8080/wordpress/slide/services/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/services/</link>
 		<pubDate>Thu, 12 Feb 2015 18:57:14 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?post_type=slide&#038;p=119</guid>
@@ -11446,7 +11446,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title>Portfolio</title>
-		<link>http://localhost:8080/wordpress/slide/portfolio/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/portfolio/</link>
 		<pubDate>Fri, 13 Feb 2015 11:29:51 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?post_type=slide&#038;p=159</guid>
@@ -11593,10 +11593,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title>Sunrise Avenue</title>
-		<link>http://localhost:8080/wordpress/slide/sunrise-avenue/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/sunrise-avenue/</link>
 		<pubDate>Tue, 19 May 2015 17:37:53 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=slide&#038;p=312</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?post_type=slide&#038;p=312</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -11740,10 +11740,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title>Singapore Skyrise</title>
-		<link>http://localhost:8080/wordpress/slide/singapore-skyrise/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/singapore-skyrise/</link>
 		<pubDate>Tue, 19 May 2015 17:50:45 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=slide&#038;p=319</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?post_type=slide&#038;p=319</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -11887,10 +11887,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title>St Lucia Sunsets</title>
-		<link>http://localhost:8080/wordpress/slide/st-lucia-sunsets/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/st-lucia-sunsets/</link>
 		<pubDate>Tue, 19 May 2015 18:01:26 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=slide&#038;p=323</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?post_type=slide&#038;p=323</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -12034,10 +12034,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title>Danish Modernity</title>
-		<link>http://localhost:8080/wordpress/slide/danish-modernity/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/danish-modernity/</link>
 		<pubDate>Tue, 19 May 2015 18:12:58 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=slide&#038;p=328</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?post_type=slide&#038;p=328</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -12181,10 +12181,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title>West Shinjuku</title>
-		<link>http://localhost:8080/wordpress/slide/west-shinjuku/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/west-shinjuku/</link>
 		<pubDate>Tue, 19 May 2015 18:28:06 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=slide&#038;p=330</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?post_type=slide&#038;p=330</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -12328,10 +12328,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title>Manchester Airport</title>
-		<link>http://localhost:8080/wordpress/slide/manchester-airport/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/manchester-airport/</link>
 		<pubDate>Tue, 19 May 2015 18:32:56 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=slide&#038;p=332</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?post_type=slide&#038;p=332</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -12475,10 +12475,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title>London Velodrome</title>
-		<link>http://localhost:8080/wordpress/slide/london-velodrome/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/london-velodrome/</link>
 		<pubDate>Tue, 19 May 2015 18:36:18 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=slide&#038;p=334</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?post_type=slide&#038;p=334</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -12622,10 +12622,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title>The Cube</title>
-		<link>http://localhost:8080/wordpress/slide/the-cube/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/the-cube/</link>
 		<pubDate>Tue, 19 May 2015 18:39:45 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=slide&#038;p=336</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?post_type=slide&#038;p=336</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -12769,10 +12769,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title>Vila Olímpica</title>
-		<link>http://localhost:8080/wordpress/slide/vila-olimpica/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/vila-olimpica/</link>
 		<pubDate>Tue, 19 May 2015 18:47:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=slide&#038;p=338</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?post_type=slide&#038;p=338</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -12916,10 +12916,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 	</item>
 	<item>
 		<title>San Fransisco Leisure</title>
-		<link>http://localhost:8080/wordpress/san-fransisco-leisure/</link>
+		<link>http://cozyhouzz.cafe24.com/san-fransisco-leisure/</link>
 		<pubDate>Mon, 29 Jun 2015 23:00:37 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?p=442</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?p=442</guid>
 		<description></description>
 		<content:encoded><![CDATA[[fusion_builder_container hundred_percent="yes" overflow="visible"][fusion_builder_row][fusion_builder_column type="1_1" background_position="left top" background_color="" border_size="" border_color="" border_style="solid" spacing="yes" background_image="" background_repeat="no-repeat" padding="" margin_top="0px" margin_bottom="0px" class="" id="" animation_type="" animation_speed="0.3" animation_direction="left" hide_on_mobile="no" center_content="no" min_height="none"][fusion_text][fusion_dropcap color="" boxed="yes" boxed_radius="0px" class="" id=""]L[/fusion_dropcap]orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
@@ -13250,10 +13250,10 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 	</item>
 	<item>
 		<title>Beautiful Night Lights</title>
-		<link>http://localhost:8080/wordpress/beautiful-night-lights/</link>
+		<link>http://cozyhouzz.cafe24.com/beautiful-night-lights/</link>
 		<pubDate>Tue, 30 Jun 2015 17:08:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?p=478</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?p=478</guid>
 		<description></description>
 		<content:encoded><![CDATA[[fusion_builder_container hundred_percent="yes" overflow="visible"][fusion_builder_row][fusion_builder_column type="1_1" background_position="left top" background_color="" border_size="" border_color="" border_style="solid" spacing="yes" background_image="" background_repeat="no-repeat" padding="" margin_top="0px" margin_bottom="0px" class="" id="" animation_type="" animation_speed="0.3" animation_direction="left" hide_on_mobile="no" center_content="no" min_height="none"][fusion_text][fusion_dropcap color="" boxed="yes" boxed_radius="0px" class="" id=""]L[/fusion_dropcap]orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
@@ -13585,10 +13585,10 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 	</item>
 	<item>
 		<title>Modern Tranquility</title>
-		<link>http://localhost:8080/wordpress/modern-tranquility/</link>
+		<link>http://cozyhouzz.cafe24.com/modern-tranquility/</link>
 		<pubDate>Tue, 30 Jun 2015 17:09:50 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?p=480</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?p=480</guid>
 		<description></description>
 		<content:encoded><![CDATA[[fusion_builder_container hundred_percent="yes" overflow="visible"][fusion_builder_row][fusion_builder_column type="1_1" background_position="left top" background_color="" border_size="" border_color="" border_style="solid" spacing="yes" background_image="" background_repeat="no-repeat" padding="" margin_top="0px" margin_bottom="0px" class="" id="" animation_type="" animation_speed="0.3" animation_direction="left" hide_on_mobile="no" center_content="no" min_height="none"][fusion_text][fusion_dropcap color="" boxed="yes" boxed_radius="0px" class="" id=""]L[/fusion_dropcap]orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
@@ -13920,10 +13920,10 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 	</item>
 	<item>
 		<title>Conceptual Fluid Design</title>
-		<link>http://localhost:8080/wordpress/conceptual-fluid-design/</link>
+		<link>http://cozyhouzz.cafe24.com/conceptual-fluid-design/</link>
 		<pubDate>Tue, 30 Jun 2015 17:10:24 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?p=482</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?p=482</guid>
 		<description></description>
 		<content:encoded><![CDATA[[fusion_builder_container hundred_percent="yes" overflow="visible"][fusion_builder_row][fusion_builder_column type="1_1" background_position="left top" background_color="" border_size="" border_color="" border_style="solid" spacing="yes" background_image="" background_repeat="no-repeat" padding="" margin_top="0px" margin_bottom="0px" class="" id="" animation_type="" animation_speed="0.3" animation_direction="left" hide_on_mobile="no" center_content="no" min_height="none"][fusion_text][fusion_dropcap color="" boxed="yes" boxed_radius="0px" class="" id=""]L[/fusion_dropcap]orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
@@ -14255,10 +14255,10 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 	</item>
 	<item>
 		<title>Structural Perfection</title>
-		<link>http://localhost:8080/wordpress/structural-perfection/</link>
+		<link>http://cozyhouzz.cafe24.com/structural-perfection/</link>
 		<pubDate>Tue, 30 Jun 2015 17:13:22 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?p=484</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?p=484</guid>
 		<description></description>
 		<content:encoded><![CDATA[[fusion_builder_container hundred_percent="yes" overflow="visible"][fusion_builder_row][fusion_builder_column type="1_1" background_position="left top" background_color="" border_size="" border_color="" border_style="solid" spacing="yes" background_image="" background_repeat="no-repeat" padding="" margin_top="0px" margin_bottom="0px" class="" id="" animation_type="" animation_speed="0.3" animation_direction="left" hide_on_mobile="no" center_content="no" min_height="none"][fusion_text][fusion_dropcap color="" boxed="yes" boxed_radius="0px" class="" id=""]L[/fusion_dropcap]orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
@@ -14591,10 +14591,10 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 	</item>
 	<item>
 		<title>Beautiful Lighting Effects</title>
-		<link>http://localhost:8080/wordpress/beautiful-lighting-effects/</link>
+		<link>http://cozyhouzz.cafe24.com/beautiful-lighting-effects/</link>
 		<pubDate>Tue, 30 Jun 2015 17:28:19 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?p=489</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?p=489</guid>
 		<description></description>
 		<content:encoded><![CDATA[[fusion_builder_container hundred_percent="yes" overflow="visible"][fusion_builder_row][fusion_builder_column type="1_1" background_position="left top" background_color="" border_size="" border_color="" border_style="solid" spacing="yes" background_image="" background_repeat="no-repeat" padding="" margin_top="0px" margin_bottom="0px" class="" id="" animation_type="" animation_speed="0.3" animation_direction="left" hide_on_mobile="no" center_content="no" min_height="none"][fusion_text][fusion_dropcap color="" boxed="yes" boxed_radius="0px" class="" id=""]L[/fusion_dropcap]orem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
@@ -14926,10 +14926,10 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 	</item>
 	<item>
 		<title>Parallax Directions</title>
-		<link>http://localhost:8080/wordpress/parallax-directions__trashed/</link>
+		<link>http://cozyhouzz.cafe24.com/parallax-directions__trashed/</link>
 		<pubDate>Sun, 19 Feb 2017 16:12:15 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?page_id=740</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?page_id=740</guid>
 		<description></description>
 		<content:encoded><![CDATA[[fusion_builder_container hundred_percent="no" equal_height_columns="no" hide_on_mobile="no" background_image="http://avada.theme-fusion.com/architecture/wp-content/uploads/sites/21/2015/02/home-section1.jpg" background_position="center center" background_repeat="no-repeat" fade="no" background_parallax="left" enable_mobile="yes" parallax_speed="0.7" video_aspect_ratio="16:9" video_loop="yes" video_mute="yes" overlay_opacity="0.5" border_size="0px" border_color="transparent" border_style="solid" padding_top="110px" padding_bottom="110px"][fusion_builder_row][fusion_builder_column type="1_1" layout="1_1" background_position="left top" background_color="" border_size="" border_color="" border_style="solid" spacing="yes" background_image="" background_repeat="no-repeat" padding="" margin_top="0px" margin_bottom="0px" class="" id="" animation_type="" animation_speed="0.3" animation_direction="left" hide_on_mobile="no" center_content="no" min_height="none" last="no" hover_type="none" link="" border_position="all"][fusion_text]
 <h4><span style="color: #ffffff; font-size: 30px; letter-spacing: 2px;">ARCHITECTURE</span></h4>
@@ -15212,7 +15212,7 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 	</item>
 	<item>
 		<title>Contact form 1</title>
-		<link>http://localhost:8080/wordpress/?post_type=wpcf7_contact_form&#038;p=153</link>
+		<link>http://cozyhouzz.cafe24.com/?post_type=wpcf7_contact_form&#038;p=153</link>
 		<pubDate>Thu, 12 Feb 2015 20:33:25 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/architecture/?post_type=wpcf7_contact_form&#038;p=153</guid>
@@ -15256,7 +15256,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Avada Architecture (http://localhost:8080/wordpress)
+This e-mail was sent from a contact form on Avada Architecture (http://cozyhouzz.cafe24.com)
 [your-email]
 Reply-To: isharis@gmail.com
 
@@ -15336,7 +15336,7 @@ This e-mail was sent from a contact form";s:9:"recipient";s:17:"noemail@example.
 [your-message]
 
 --
-This e-mail was sent from a contact form on Avada Architecture (http://localhost:8080/wordpress)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:27:"Reply-To: isharis@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Avada Architecture (http://cozyhouzz.cafe24.com)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:27:"Reply-To: isharis@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -15357,10 +15357,10 @@ This e-mail was sent from a contact form on Avada Architecture (http://localhost
 	</item>
 	<item>
 		<title>Oxford University</title>
-		<link>http://localhost:8080/wordpress/slide/oxford-university/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/oxford-university/</link>
 		<pubDate>Tue, 19 May 2015 18:49:44 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=slide&#038;p=340</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?post_type=slide&#038;p=340</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -15504,10 +15504,10 @@ This e-mail was sent from a contact form on Avada Architecture (http://localhost
 	</item>
 	<item>
 		<title>New England Marina</title>
-		<link>http://localhost:8080/wordpress/slide/new-england-marina/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/new-england-marina/</link>
 		<pubDate>Tue, 19 May 2015 18:51:30 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=slide&#038;p=342</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?post_type=slide&#038;p=342</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -15651,10 +15651,10 @@ This e-mail was sent from a contact form on Avada Architecture (http://localhost
 	</item>
 	<item>
 		<title>Dubai Hotel</title>
-		<link>http://localhost:8080/wordpress/slide/dubai-hotel/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/dubai-hotel/</link>
 		<pubDate>Tue, 19 May 2015 18:52:38 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=slide&#038;p=344</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?post_type=slide&#038;p=344</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -15798,10 +15798,10 @@ This e-mail was sent from a contact form on Avada Architecture (http://localhost
 	</item>
 	<item>
 		<title>Contact Form Popup</title>
-		<link>http://localhost:8080/wordpress/?post_type=wpcf7_contact_form&#038;p=413</link>
+		<link>http://cozyhouzz.cafe24.com/?post_type=wpcf7_contact_form&#038;p=413</link>
 		<pubDate>Mon, 29 Jun 2015 20:36:55 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=wpcf7_contact_form&#038;p=413</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?post_type=wpcf7_contact_form&#038;p=413</guid>
 		<description></description>
 		<content:encoded><![CDATA[<div style="color: #fff; text-transform: uppercase;">
 
@@ -15842,7 +15842,7 @@ Message Body:
 [your-message]
 
 --
-This e-mail was sent from a contact form on Architecture Live Demo (http://localhost:8080/wordpress)
+This e-mail was sent from a contact form on Architecture Live Demo (http://cozyhouzz.cafe24.com)
 [your-email]
 Reply-To: isharis@gmail.com
 
@@ -15922,7 +15922,7 @@ This e-mail was sent from a contact form";s:9:"recipient";s:17:"noemail@example.
 [your-message]
 
 --
-This e-mail was sent from a contact form on Architecture Live Demo (http://localhost:8080/wordpress)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:27:"Reply-To: isharis@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
+This e-mail was sent from a contact form on Architecture Live Demo (http://cozyhouzz.cafe24.com)";s:9:"recipient";s:12:"[your-email]";s:18:"additional_headers";s:27:"Reply-To: isharis@gmail.com";s:11:"attachments";s:0:"";s:8:"use_html";b:0;s:13:"exclude_blank";b:0;}]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[_messages]]></wp:meta_key>
@@ -15943,10 +15943,10 @@ This e-mail was sent from a contact form on Architecture Live Demo (http://local
 	</item>
 	<item>
 		<title>News</title>
-		<link>http://localhost:8080/wordpress/slide/487/</link>
+		<link>http://cozyhouzz.cafe24.com/slide/487/</link>
 		<pubDate>Tue, 30 Jun 2015 17:17:59 +0000</pubDate>
 		<dc:creator><![CDATA[admin]]></dc:creator>
-		<guid isPermaLink="false">http://localhost:8080/wordpress/?post_type=slide&#038;p=487</guid>
+		<guid isPermaLink="false">http://cozyhouzz.cafe24.com/?post_type=slide&#038;p=487</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
